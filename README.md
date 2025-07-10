@@ -14,8 +14,3 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <br/><br/>
-
-## Status
-[![Jiiiwonyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiiiwonyy)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiiiwonyy)](https://github.com/anuraghazra/github-readme-stats)
